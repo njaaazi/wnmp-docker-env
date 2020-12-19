@@ -1,0 +1,10 @@
+.env*
+.idea/
+logs/
+mysql/
+nginx/
+db/
+wordpress/
+/config
+!.env_example
+!nginx/default*
